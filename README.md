@@ -1,9 +1,9 @@
 # 💫 About Me:
-I’m currently working on: Building CollegeVendors v2 with Next.js, Firebase, and Supabase, implementing real-time subscriptions, escrow payments, and vendor profiles
+I’m currently working on: Building uniVendors v2 with Next.js, Firebase, and Supabase, implementing real-time subscriptions, escrow payments, and vendor profiles
 I’m currently learning: TypeScript for stronger frontend and backend code, application security to make apps more secure, advanced Next.js features like API routes and server-side rendering
 I’m looking to collaborate on: Full-stack projects using Next.js and Node.js, open-source apps that solve real-world problems, projects involving web security or payment systems
 I’m looking for help with: Improving backend architecture and best practices, learning more about scaling apps and database design, getting feedback on full-stack projects from experienced developers
-Ask me about: CollegeVendors (my startup project), full-stack development (Next.js, React, Firebase, Supabase), JavaScript tips and tricks
+Ask me about: uniVendors (my startup project), full-stack development (Next.js, React, Firebase, Supabase), JavaScript tips and tricks
 Fun fact: I like to code early in the morning, then relax by reading or listening to audiobooks, I’ve built multiple apps but still enjoy learning from scratch every day
 
 
