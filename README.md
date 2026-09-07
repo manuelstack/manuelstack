@@ -27,5 +27,6 @@ I work across the full product lifecycle: turning ideas into accessible UI, desi
 
 ## Let’s connect
 
+- [Portfolio](https://manuelstackpatfolio.vercel.app/)
 - Email: emmanueloni211@gmail.com
 - [Instagram](https://instagram.com/manuelstack) · [TikTok](https://tiktok.com/@manuelstack) · [X](https://x.com/manuelstack)
